@@ -1,0 +1,1 @@
+dofile[[C:\world.lua]]
